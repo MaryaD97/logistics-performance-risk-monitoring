@@ -1,0 +1,120 @@
+{
+  "name": "Weather_Agent",
+  "nodes": [
+    {
+      "parameters": {
+        "public": true,
+        "initialMessages": "Hi there! 👋\nI am a Weather Assistant, ask me about the weather of any city in the world.",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "id": "1cd0c4a1-87e9-4944-af35-993740e3b806",
+      "name": "When chat message received",
+      "webhookId": "5cf91d3f-1f97-4b75-87e1-dc4348d5df6a"
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "You are a helpful weather assistant, When someone asks a question  {{ $json.chatInput }} only answer when the question is about the weather. If the question is not about the weather, apologise and say that you do not have an answer. If the question is about the weather, answer according to the average temperature expected for the city mentioned in the {{ $json.chatInput }}\n"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        208,
+        0
+      ],
+      "id": "03bbaf1b-be9a-499b-b7b0-72c8f88a85dd",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-4.1-mini"
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.3,
+      "position": [
+        80,
+        208
+      ],
+      "id": "af270c4b-e491-4534-a671-e83197f82d59",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "J9Fpz3IfJ7mSRVKc",
+          "name": "n8n free OpenAI API credits"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.3,
+      "position": [
+        224,
+        208
+      ],
+      "id": "1cea98ec-1e37-410d-ba81-5cedfbf77853",
+      "name": "Simple Memory"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "versionId": "aa695ddb-bf8e-4146-b4ae-caefc4dbb5e2",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "0b4efee6c1bdc9fbdee3751ed3f8d56c5d48c9c3e9a858166006ac435d2c968a"
+  },
+  "id": "sKfChexFfLxVzyyfk0QHU",
+  "tags": []
+}
