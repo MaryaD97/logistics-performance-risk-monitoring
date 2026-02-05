@@ -1,0 +1,336 @@
+﻿risk_explanation,year_week,late_delivery_rate,avg_delivery_delay,top_risk_region,risk_level
+"- **High Late Delivery Rate**: A late delivery rate of 56.4% indicates that more than half of the shipments are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.54 weeks (or about 3.8 days) further exacerbates the issue, suggesting that even when deliveries are made, they are substantially late.
+
+- **Top Risk Region**: The Caribbean being identified as the top risk region highlights a specific area of concern, indicating that logistical challenges or disruptions in this region are contributing",2015-04,0.5643970467596391,0.5373256767842494,Caribbean,HIGH
+"- **High Late Delivery Rate**: With a late delivery rate of approximately 57%, a significant portion of shipments are not arriving on time, indicating severe operational inefficiencies.
+
+- **Substantial Average Delay**: An average delay of about 0.74 weeks (or over 5 days) further exacerbates the issue, impacting customer satisfaction and supply chain reliability.
+
+- **Top Risk Region**: The Caribbean is identified as the top risk region, suggesting localized challenges such as infrastructure issues or logistical constraints that contribute to the high risk level.",2015-06,0.5697879858657244,0.7446996466431095,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and loss of business.
+
+- **Substantial Average Delay**: An average delay of over half a week (0.52 weeks) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Top Risk Region**: The Caribbean being identified as the top risk region highlights a specific area where logistical challenges are pronounced, necessitating targeted interventions to mitigate risks.",2015-09,0.56015625,0.5234375,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57% indicates significant delays in fulfilling orders, impacting customer satisfaction and operational efficiency.
+
+- **Average Delay**: An average delay of about 0.66 weeks (or roughly 4.6 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Top Risk Region**: The identification of South America as the top risk region highlights a specific area of concern, likely due to logistical challenges or disruptions affecting performance metrics.",2015-10,0.5688073394495413,0.6563803169307757,South America,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.6% indicates that more than half of the shipments are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.57 weeks (or roughly 4 days) further exacerbates the issue, suggesting that even when deliveries are made, they are substantially behind schedule.
+
+- **Top Risk Region**: The identification of Central America as the top risk region highlights a specific area where logistical challenges are concentrated, necessitating targeted interventions to mitigate risks",2015-17,0.5556485355648536,0.5740585774058578,Central America,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.57% indicates that more than half of the shipments are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.60 weeks (or about 4.2 days) further exacerbates the issue, suggesting that even when deliveries are made, they are substantially late.
+
+- **Top Risk Region**: The Caribbean is identified as the top risk region, indicating that logistical challenges in this area are contributing to the high rates of late deliveries and",2015-18,0.5656903765690376,0.599163179916318,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.85% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 55.78% suggests that even when deliveries are made, they are consistently late, which can lead to further complications in supply chain management.
+
+- **Top Risk Region**: The Caribbean being identified as the top risk region highlights a specific area of concern, suggesting that logistical challenges or disruptions are particularly pronounced in this region, warrant",2015-21,0.5585443037974683,0.557753164556962,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.8% indicates that more than half of the deliveries were not made on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of approximately 0.55 weeks (or about 4 days) suggests that even when deliveries are made, they are consistently late, further exacerbating logistical challenges.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks in that",2015-22,0.5581787521079258,0.5489038785834739,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.07% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.66 days suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where logistical challenges are concentrated, necessitating targeted interventions to mitigate risks.",2015-23,0.5507246376811594,0.659846547314578,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.7% indicates that more than half of deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.54 weeks (or roughly 3.8 days) suggests that when deliveries are late, they are delayed by a substantial amount of time, exacerbating the issue.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions",2015-26,0.5566343042071198,0.5412621359223301,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 58% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Average Delay**: An average delay of approximately 0.59 weeks (or about 4.1 days) further emphasizes the severity of the delivery issues, potentially leading to increased operational costs and customer complaints.
+
+- **Top Risk Region**: The identification of Southern Europe as the top risk region suggests localized challenges, such as transportation issues or regulatory hurdles, that exacerbate delivery problems in that area.",2015-27,0.5804020100502513,0.5871021775544388,Southern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.13% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.55 weeks (or about 3.85 days) suggests that even when deliveries are made, they are substantially late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks",2015-28,0.5613472333600642,0.545308740978348,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 57.3% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of approximately 0.58 weeks (or about 4 days) suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where logistical challenges are concentrated, necessitating targeted interventions to mitigate risks.",2015-31,0.5731907894736842,0.5789473684210527,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 58.63% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.74 days suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Regional Concentration of Risk**: The identification of Western Europe as the top risk region highlights a specific area where logistical challenges are most pronounced, necessitating targeted interventions.",2015-33,0.5862944162436549,0.7360406091370558,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 58.6% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.63 weeks (or roughly 4.4 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Geographic Concentration of Risk**: The identification of Northern Europe as the top risk region highlights a specific area where these issues are most pronounced, necessitating targeted interventions to mitigate risks.",2015-35,0.5858995137763371,0.6345218800648298,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 59% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Average Delay**: An average delay of about 0.61 weeks (or roughly 4.3 days) further emphasizes the severity of the situation, suggesting that deliveries are consistently falling behind schedule.
+
+- **Top Risk Region**: The identification of Northern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2015-37,0.5900514579759862,0.6106346483704974,Northern Europe,HIGH
+"- **High Late Delivery Rate**: At 57.25%, the late delivery rate significantly exceeds acceptable thresholds, indicating frequent delays in shipments.
+
+- **Substantial Average Delay**: An average delay of approximately 0.57 weeks suggests that deliveries are consistently late, impacting customer satisfaction and operational efficiency.
+
+- **Regional Concentration of Risk**: The top risk region being Southern Europe indicates that issues may be localized, potentially due to factors like infrastructure challenges or increased demand in that area.",2015-38,0.5724815724815725,0.5749385749385749,Southern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 61.5% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.74 weeks (or roughly 5.2 days) further emphasizes the severity of the lateness, potentially leading to increased operational costs and customer complaints.
+
+- **Regional Concerns**: The identification of Southern Europe as the top risk region suggests localized issues, such as transportation challenges or regulatory hurdles, that may be exacerbating delivery performance.",2015-41,0.6152556580050293,0.740989103101425,Southern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.7% indicates that more than half of the shipments are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of 0.71 weeks suggests that deliveries are not only late but also experiencing substantial delays, which can lead to further complications in supply chain management.
+
+- **Regional Concerns**: The top risk region being Southeast Asia may indicate specific logistical challenges or disruptions in that area, contributing to the overall high risk level.",2015-44,0.567043618739903,0.7108239095315024,Southeast Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and potential loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.61 weeks (or roughly 4.3 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Top Risk Region**: The identification of South Asia as the top risk region highlights a specific area where logistical challenges are pronounced, necessitating targeted interventions to mitigate risks.",2015-48,0.5698143664245359,0.612590799031477,South Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.54% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.56 weeks (or about 4 days) further exacerbates the issue, suggesting that even when deliveries are made, they are substantially delayed.
+
+- **Regional Concentration of Risk**: The identification of Southeast Asia as the top risk region highlights a specific area where logistical challenges are pronounced, necessitating targeted interventions to mitigate risks",2015-52,0.555431131019037,0.5565509518477044,Southeast Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 58% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of over 0.52 weeks (approximately 3.7 days) further emphasizes the reliability issues in the logistics process, impacting overall service quality.
+
+- **Top Risk Region**: The identification of South Asia as the top risk region suggests systemic challenges in that area, necessitating targeted interventions to mitigate risks associated with deliveries.",2016-01,0.5798816568047337,0.5232459847844463,South Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 57.1% indicates that more than half of the shipments are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.66 weeks (or about 4.6 days) suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Regional Concentration of Risk**: The top risk region being Southeast Asia indicates that logistical challenges in this area are contributing disproportionately to the overall risk, necessitating targeted",2016-03,0.570957095709571,0.6567656765676567,Southeast Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57.8% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and loss of business.
+
+- **Substantial Average Delay**: An average delay of about 56.5% further emphasizes the reliability issues in the logistics process, suggesting that deliveries are consistently behind schedule.
+
+- **Geographic Concentration of Risk**: The top risk region being Southeast Asia suggests that specific operational challenges or disruptions in this area are contributing to the overall high risk level.",2016-05,0.5778761061946903,0.5654867256637168,Southeast Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 56% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.61 weeks (or roughly 4.3 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Geographic Concentration of Risk**: The top risk region being Southeast Asia highlights a specific area where logistical challenges are pronounced, necessitating targeted interventions to mitigate risks.",2016-07,0.5618345618345618,0.6093366093366094,Southeast Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 61% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.59 weeks (or roughly 4.1 days) further emphasizes the reliability issues, impacting overall service quality.
+
+- **Top Risk Region**: The identification of South Asia as the top risk region suggests systemic issues in logistics operations in that area, necessitating immediate attention to mitigate risks.",2016-10,0.6086221470836856,0.5942519019442096,South Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 58.35% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.69 days (or about 16.56 hours) suggests that even when deliveries are made, they are considerably late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The East of the USA is identified as the top risk region, indicating that logistical challenges or disruptions are concentrated in this area, necessitating",2016-13,0.5834710743801653,0.6925619834710743,East of USA,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 56% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.58 weeks (or roughly 4 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Geographic Concentration of Risk**: The top risk region being the West of the USA highlights a specific area of concern, indicating that logistical challenges may be localized, requiring targeted interventions.",2016-15,0.555993690851735,0.582807570977918,West of USA ,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 60.2% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.66 weeks (or roughly 4.6 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Regional Concentration of Risk**: The East of the USA is identified as the top risk region, indicating that logistical challenges in this area are contributing disproportionately to the overall high risk level.",2016-17,0.6020220588235294,0.6626838235294118,East of USA,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 58.4% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.7 weeks suggests that deliveries are not only late but also experiencing substantial delays, further exacerbating service issues.
+
+- **Regional Concentration of Risk**: The South of the USA being identified as the top risk region indicates that this area is particularly problematic, necessitating targeted interventions to address the high rates of late deliveries and delays",2016-21,0.5840266222961731,0.697171381031614,South of  USA ,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 62.7% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.62 weeks (or about 4.34 days) further exacerbates the issue, suggesting that even when deliveries are made, they are considerably late.
+
+- **Top Risk Region**: The US Center being identified as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks",2016-22,0.6270903010033445,0.6204013377926422,US Center ,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 58.1% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.62 weeks (or about 4.3 days) further exacerbates the issue, suggesting that even when deliveries are made, they are substantially late.
+
+- **Top Risk Region**: The West of the USA is identified as the top risk region, indicating that this area is particularly problematic, which may require targeted interventions to",2016-23,0.581081081081081,0.6165540540540541,West of USA ,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 56.8% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.76 weeks (or roughly 5.3 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Regional Concentration of Issues**: The South of the USA being identified as the top risk region highlights a specific area where these problems are concentrated, necessitating targeted interventions to mitigate risks.",2016-24,0.5684394071490846,0.7619877942458587,South of  USA ,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57.6% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and potential loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.59 weeks (or roughly 4.1 days) further exacerbates the issue, suggesting that deliveries are consistently behind schedule.
+
+- **Top Risk Region**: The US Center being identified as the top risk region highlights a specific area where these issues are most pronounced, necessitating targeted interventions to mitigate risks.",2016-31,0.575993091537133,0.5924006908462867,US Center ,HIGH
+"- **High Late Delivery Rate**: The late delivery rate of approximately 55.3% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of about 53.4% suggests that deliveries are not only late but also experiencing considerable delays, further exacerbating logistical challenges.
+
+- **Geographic Risk Concentration**: The identification of Central Asia as the top risk region highlights a specific area where issues are concentrated, necessitating targeted interventions to address the underlying causes.",2016-34,0.5534062237174096,0.5340622371740958,Central Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.12% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of 0.61 days suggests that deliveries are not only late but also experiencing substantial delays, which can lead to further complications in supply chain management.
+
+- **Regional Risk Concentration**: The top risk region being Western Europe highlights a specific area of concern, suggesting that localized issues may be contributing to the high risk, warranting targeted interventions.",2016-36,0.5611570247933885,0.6123966942148761,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57.34% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.70 weeks (or roughly 4.9 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Geographic Concentration of Risk**: The top risk region being Southern Europe highlights a specific area where these issues are prevalent, necessitating targeted interventions to mitigate risks in that region.",2016-38,0.5733982157339822,0.6950527169505272,Southern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 57.6% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of approximately 0.56 weeks (or about 4 days) further exacerbates the issue, suggesting that even when deliveries are made, they are significantly delayed.
+
+- **Top Risk Region**: The identification of Northern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2016-41,0.5761750405186385,0.5615883306320908,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.6% indicates that more than half of the deliveries were not made on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of approximately 0.63 weeks (or about 4.4 days) suggests that even when deliveries are made, they are significantly delayed, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Northern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks",2016-43,0.5662358642972536,0.6332794830371568,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.5% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.6 weeks (or roughly 4.2 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Regional Focus**: The designation of Northern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2016-44,0.5554635761589404,0.6001655629139073,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 57% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and loss of business.
+
+- **Average Delay**: An average delay of approximately 16 hours (0.6640625 days) further exacerbates the issue, suggesting that deliveries are consistently not meeting expected timelines.
+
+- **Top Risk Region**: The identification of Eastern Asia as the top risk region highlights a specific area of concern, indicating potential logistical challenges or disruptions that need to be addressed.",2016-46,0.5703125,0.6640625,Eastern Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.65% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and reliability.
+
+- **Significant Average Delay**: An average delay of about 0.56 weeks suggests that deliveries are not only late but also experiencing substantial delays, further exacerbating logistical challenges.
+
+- **Top Risk Region**: The identification of Northern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2016-47,0.5565356856455493,0.5589414595028067,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 58% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.57 weeks (or roughly 4 days) further exacerbates the issue, suggesting that even when deliveries are made, they are consistently late.
+
+- **Geographic Risk Concentration**: The identification of Southern Africa as the top risk region highlights a specific area where logistical challenges are pronounced, necessitating targeted interventions to mitigate risks.",2016-51,0.5795454545454546,0.5664335664335665,Southern Africa,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 57.5% indicates significant delays in fulfilling orders, which can negatively impact customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of approximately 0.57 weeks (or about 4 days) further emphasizes the reliability issues in the logistics process, increasing the likelihood of customer dissatisfaction.
+
+- **Regional Concerns**: The top risk region being Western Europe suggests that specific geographical challenges may be contributing to these high rates, necessitating targeted interventions to mitigate risks in that area.",2016-52,0.5753424657534246,0.5688960515713135,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57.7% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.58 weeks (or roughly 4 days) further exacerbates the issue, suggesting that even when deliveries are made, they are substantially delayed.
+
+- **Regional Concerns**: The designation of Central America as the top risk region highlights specific geographical challenges that may be contributing to these high rates, necessitating targeted interventions.",2017-05,0.5773279352226721,0.582995951417004,Central America,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 58.7% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.66 weeks (or roughly 4.6 days) suggests that even when deliveries are made, they are substantially behind schedule, further exacerbating reliability issues.
+
+- **Top Risk Region**: The Caribbean being identified as the top risk region may indicate specific logistical challenges, such as infrastructure issues or external factors, contributing to",2017-07,0.5869565217391305,0.6643478260869565,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.4% indicates significant delays in fulfilling orders, which can disrupt supply chain efficiency and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of about 0.63 weeks (or roughly 4.4 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Top Risk Region**: The identification of Central America as the top risk region highlights a specific area where logistical challenges are most pronounced, necessitating targeted interventions to mitigate risks.",2017-09,0.5540098199672667,0.630114566284779,Central America,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 55.8% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.54 weeks (or roughly 3.8 days) suggests that when deliveries are late, they are delayed by a considerable amount, further exacerbating logistical challenges.
+
+- **Regional Concerns**: The top risk region being South America highlights a specific area where these issues are concentrated, indicating potential systemic problems in logistics or",2017-11,0.5576923076923077,0.540133779264214,South America,HIGH
+"- **High Late Delivery Rate**: A rate of approximately 57% indicates significant delays in deliveries, which can disrupt supply chain operations and customer satisfaction.
+
+- **Substantial Average Delay**: An average delay of over 0.6 weeks suggests that deliveries are consistently late, further exacerbating logistical challenges.
+
+- **Top Risk Region**: The Caribbean is identified as a high-risk area, likely due to geographical challenges or operational inefficiencies, contributing to the overall elevated risk level.",2017-12,0.5729957805907173,0.619409282700422,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 56% indicates significant delays in fulfilling orders, which can disrupt supply chains and customer satisfaction.
+
+- **Average Delay**: An average delay of about 0.62 weeks (or roughly 4.3 days) further exacerbates the issue, suggesting that deliveries are consistently falling behind schedule.
+
+- **Top Risk Region**: The identification of South America as the top risk region highlights a specific geographic area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2017-14,0.5593934288121314,0.6225779275484414,South America,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and potential loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.66 weeks (or roughly 4.6 days) further exacerbates the issue, suggesting that deliveries are not only late but also significantly delayed, impacting overall service reliability.
+
+- **Top Risk Region**: The Caribbean being identified as the top risk region highlights a specific area where logistical challenges are pronounced, necessitating focused attention and resources to mitigate",2017-17,0.5689512799339389,0.6606110652353427,Caribbean,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 57.54% indicates that more than half of the shipments are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.58 weeks (or about 4 days) suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Geographical Risk Concentration**: The top risk region being South America indicates potential systemic issues in logistics or infrastructure in that area, necessitating targeted interventions to mitigate risks.",2017-21,0.575353871773522,0.5778517901748543,South America,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.17% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of 0.57 weeks (approximately 4 days) further exacerbates the issue, suggesting that even when deliveries occur, they are substantially delayed.
+
+- **Regional Concentration of Risk**: The identification of Northern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2017-24,0.5616911130284729,0.5677308024158757,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 58.35% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.68 weeks (or roughly 4.8 days) suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Southern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate",2017-27,0.5834645669291338,0.684251968503937,Southern Europe,HIGH
+"- **High Late Delivery Rate**: The late delivery rate of approximately 59.5% indicates that a significant majority of deliveries are not arriving on time, which can severely impact customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of about 0.66 weeks suggests that when deliveries are late, they are delayed by a considerable amount of time, further exacerbating logistical challenges.
+
+- **Regional Risk Concentration**: The identification of Southern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks in that",2017-28,0.5951972555746141,0.6629502572898799,Southern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.56% indicates that more than half of the deliveries were not on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.62 weeks (or about 4.34 days) suggests that deliveries are not only late but also experiencing substantial delays, further exacerbating logistical challenges.
+
+- **Regional Concerns**: The identification of Southern Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2017-33,0.5556492411467117,0.6172006745362564,Southern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 60.24% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Substantial Average Delay**: An average delay of approximately 0.73 weeks (over 5 days) suggests that even when deliveries are made, they are significantly behind schedule, further exacerbating reliability issues.
+
+- **Geographic Concentration of Risk**: The top risk region being Northern Europe indicates a specific area facing these challenges, which may require targeted interventions to address the underlying causes of",2017-34,0.602390438247012,0.7330677290836654,Northern Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 58.5% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 0.67 days suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where logistical challenges are concentrated, necessitating targeted interventions to mitigate risks.",2017-35,0.5850973751058425,0.6697713801862828,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.13% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of 0.62 days suggests that even when deliveries are made, they are consistently late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where logistical challenges are concentrated, necessitating targeted interventions to mitigate risks.",2017-38,0.5512605042016807,0.6218487394957983,Western Europe,HIGH
+"- **High Late Delivery Rate**: The late delivery rate of approximately 58.27% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.58 days suggests that deliveries are consistently late, which can lead to increased costs and potential loss of business.
+
+- **Cancellation Rate**: While the cancellation rate is relatively low at 2.88%, it may still reflect underlying issues in the supply chain, particularly in the top risk region of Western Europe, where delays",2017-39,0.582716049382716,0.582716049382716,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 58.33% indicates that more than half of the deliveries were not made on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.66 days suggests that even when deliveries are made, they are substantially late, further exacerbating reliability issues.
+
+- **Top Risk Region**: The identification of Western Europe as the top risk region highlights a specific area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2017-41,0.5833333333333334,0.6645833333333333,Western Europe,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.42% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of approximately 14.39 hours (0.5979 days) suggests that even when deliveries are made, they are substantially late, further exacerbating reliability issues.
+
+- **Regional Concerns**: The top risk region being Oceania indicates potential geographic challenges, such as logistical complexities or infrastructure issues, contributing to the elevated risk level.",2017-45,0.5541666666666667,0.5979166666666667,Oceania,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 60% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and potential loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.69 weeks (approximately 4.8 days) further exacerbates the issue, suggesting that deliveries are consistently falling well behind schedule.
+
+- **Geographic Concentration of Risk**: The top risk region being Oceania highlights a specific area where these issues are most pronounced, indicating potential operational challenges or inefficiencies in that region.",2017-48,0.5991649269311065,0.6910229645093946,Oceania,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 55.11% indicates that more than half of the deliveries were not completed on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of 0.62 days suggests that even when deliveries are made, they are substantially late, further exacerbating reliability issues.
+
+- **Regional Risk Concentration**: The Southeast Asia region is identified as the top risk area, indicating potential systemic issues in logistics or infrastructure that could be contributing to the high rates of delays and cancellations.",2017-50,0.5511482254697286,0.6200417536534447,Southeast Asia,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 57.9% indicates that more than half of the deliveries are not arriving on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of about 0.53 weeks (or roughly 3.7 days) suggests that deliveries are not only late but also experiencing substantial delays, further exacerbating the issue.
+
+- **Top Risk Region**: The identification of Oceania as the top risk region highlights a specific geographic area where these issues are concentrated, necessitating targeted interventions to",2018-00,0.5790754257907542,0.5279805352798054,Oceania,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of approximately 59% indicates significant delays in fulfilling orders, which can lead to customer dissatisfaction and potential loss of business.
+
+- **Substantial Average Delay**: An average delay of about 0.73 weeks (over 5 days) further exacerbates the issue, suggesting that deliveries are not only late but also significantly delayed, impacting service reliability.
+
+- **Top Risk Region**: The identification of Oceania as the top risk region highlights a specific geographic area where these issues are concentrated, necessitating targeted interventions to mitigate risks.",2018-01,0.5908141962421712,0.7265135699373695,Oceania,HIGH
+"- **High Late Delivery Rate**: A late delivery rate of 56.16% indicates that more than half of the deliveries were not made on time, significantly impacting customer satisfaction and operational efficiency.
+
+- **Significant Average Delay**: An average delay of 0.61 days suggests that even when deliveries are made, they are substantially late, further exacerbating reliability issues.
+
+- **Regional Concerns**: The top risk region being Eastern Asia may indicate specific logistical challenges or disruptions in that area, contributing to the overall high risk level.",2018-03,0.5615866388308977,0.6116910229645094,Eastern Asia,HIGH
